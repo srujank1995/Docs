@@ -1,6 +1,8 @@
-# Google Cloud Platform (GCP) Commands and Key Topics for a GCP Engineer/Consultant
+  #Google Cloud Platform (GCP) Commands and Key Topics for a GCP Engineer/Consultant
 
-This repository contains essential commands and concepts for working with Google Cloud Platform (GCP) as a GCP Engineer/Consultant. The guide includes common operations for Compute Engine, Kubernetes Engine (GKE), Networking, IAM, and more. This documentation can be useful for both beginners and experienced engineers.
+This repository contains essential commands and concepts for working with Google Cloud Platform (GCP) as a GCP Engineer/Consultant. 
+The guide includes common operations for Compute Engine, Kubernetes Engine (GKE), Networking, IAM, and more. 
+This documentation can be useful for both beginners and experienced engineers.
 
 ---
 
@@ -21,7 +23,7 @@ This repository contains essential commands and concepts for working with Google
 
 ---
 
-## 1. Compute Engine
+##1. Compute Engine
 
 ### Create a VM Instance
 ```bash
