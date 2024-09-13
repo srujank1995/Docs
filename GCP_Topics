@@ -1,4 +1,4 @@
-  #Google Cloud Platform (GCP) Commands and Key Topics for a GCP Engineer/Consultant
+# Google Cloud Platform (GCP) Commands and Key Topics for a GCP Engineer/Consultant
 
 This repository contains essential commands and concepts for working with Google Cloud Platform (GCP) as a GCP Engineer/Consultant. 
 The guide includes common operations for Compute Engine, Kubernetes Engine (GKE), Networking, IAM, and more. 
@@ -23,7 +23,7 @@ This documentation can be useful for both beginners and experienced engineers.
 
 ---
 
-##1. Compute Engine
+## 1. Compute Engine
 
 ### Create a VM Instance
 ```bash
@@ -209,3 +209,9 @@ gcloud sql instances list
 - **Service Accounts and OAuth 2.0**: Understand how to use service accounts for authentication and authorization in GCP.
 - **Cost Management and Billing Alerts**: Learn how to monitor costs, set up billing alerts, and optimize spending.
 - **Best Practices for Security and Compliance**: Follow best practices for data protection, encryption, and access control in GCP.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
